@@ -35,16 +35,17 @@ namespace Pharmacy_Management
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this.dtgvShowMedicine = new System.Windows.Forms.DataGridView();
-            this.chartMedicine = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.amount = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dateandtime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.chartMedicineEnable = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvShowMedicine)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartMedicine)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartMedicineEnable)).BeginInit();
             this.SuspendLayout();
             // 
             // dtgvShowMedicine
@@ -83,40 +84,6 @@ namespace Pharmacy_Management
             this.dtgvShowMedicine.Size = new System.Drawing.Size(640, 178);
             this.dtgvShowMedicine.TabIndex = 0;
             // 
-            // chartMedicine
-            // 
-            chartArea1.Name = "ChartArea1";
-            this.chartMedicine.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chartMedicine.Legends.Add(legend1);
-            this.chartMedicine.Location = new System.Drawing.Point(106, 225);
-            this.chartMedicine.Name = "chartMedicine";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Số lượng";
-            this.chartMedicine.Series.Add(series1);
-            this.chartMedicine.Size = new System.Drawing.Size(640, 323);
-            this.chartMedicine.TabIndex = 3;
-            this.chartMedicine.Text = "chart1";
-            // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 11.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(294, 12);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(296, 23);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.Text = "ĐƠN THUỐC SẮP TỚI";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
             // ID
             // 
             this.ID.HeaderText = "ID";
@@ -149,6 +116,43 @@ namespace Pharmacy_Management
             this.dateandtime.ReadOnly = true;
             this.dateandtime.Width = 222;
             // 
+            // chartMedicineEnable
+            // 
+            chartArea1.Name = "ChartArea1";
+            this.chartMedicineEnable.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chartMedicineEnable.Legends.Add(legend1);
+            this.chartMedicineEnable.Location = new System.Drawing.Point(106, 225);
+            this.chartMedicineEnable.Name = "chartMedicineEnable";
+            series1.ChartArea = "ChartArea1";
+            series1.Legend = "Legend1";
+            series1.Name = "Số lượng";
+            this.chartMedicineEnable.Series.Add(series1);
+            this.chartMedicineEnable.Size = new System.Drawing.Size(640, 323);
+            this.chartMedicineEnable.TabIndex = 3;
+            this.chartMedicineEnable.Text = "chart1";
+            title1.Name = "abc";
+            title1.Text = "LƯỢNG THUỐC CÒN HẠN VÀ HẾT HẠN SỬ DỤNG";
+            this.chartMedicineEnable.Titles.Add(title1);
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 11.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.ForeColor = System.Drawing.Color.White;
+            this.textBox1.Location = new System.Drawing.Point(294, 12);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(296, 23);
+            this.textBox1.TabIndex = 4;
+            this.textBox1.Text = "ĐƠN THUỐC SẮP TỚI";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // ShowDrug
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -156,13 +160,13 @@ namespace Pharmacy_Management
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(841, 603);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.chartMedicine);
+            this.Controls.Add(this.chartMedicineEnable);
             this.Controls.Add(this.dtgvShowMedicine);
             this.Name = "ShowDrug";
             this.Text = "ShowDrug";
             this.Load += new System.EventHandler(this.ShowDrug_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvShowMedicine)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chartMedicine)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chartMedicineEnable)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -170,7 +174,7 @@ namespace Pharmacy_Management
 
         #endregion
         private System.Windows.Forms.DataGridView dtgvShowMedicine;
-        private System.Windows.Forms.DataVisualization.Charting.Chart chartMedicine;
+        private System.Windows.Forms.DataVisualization.Charting.Chart chartMedicineEnable;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.DataGridViewTextBoxColumn ID;

@@ -173,7 +173,6 @@ namespace Pharmacy_Management
                             Daily = false
                         };
                         FirebaseResponse response3 = await Client.UpdateTaskAsync("Schedule/Item" + IdFocus.ToString(), edit);
-                        Data result = response3.ResultAs<Data>();
                     }
                 }
                 else
@@ -189,7 +188,6 @@ namespace Pharmacy_Management
                             Daily = true
                         };
                         FirebaseResponse response3 = await Client.UpdateTaskAsync("Schedule/Item" + IdFocus.ToString(), edit);
-                        Data result = response3.ResultAs<Data>();
                     }
                 }
             }
