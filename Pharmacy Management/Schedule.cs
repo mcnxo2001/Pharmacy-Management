@@ -187,7 +187,7 @@ namespace Pharmacy_Management
                             Amount = txtAmount.Text,
                             DateAndTime = txtDateAndTime.Text,
                             Id = IdFocus.ToString(),
-                            Daily=true
+                            Daily = true
                         };
                         FirebaseResponse response3 = await Client.UpdateTaskAsync("Schedule/Item" + IdFocus.ToString(), edit);
                         Data result = response3.ResultAs<Data>();
