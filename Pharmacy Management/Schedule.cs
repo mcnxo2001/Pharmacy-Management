@@ -191,7 +191,7 @@ namespace Pharmacy_Management
                         };
                         FirebaseResponse response3 = await Client.UpdateTaskAsync("Schedule/Item" + IdFocus.ToString(), edit);
                         Data result = response3.ResultAs<Data>();
-                        //MessageBox.Show("Đã chỉnh sửa lời nhắc !!!");
+                        //MessageBox.Show("Đã chỉnh sửa lời nhắc !!!");1
                     }
                 }
             }
