@@ -1,0 +1,100 @@
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\FireSharp.dll
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\RestSharp.dll
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\bin\Debug\RestSharp.xml
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Main.resources
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CopyComplete
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.ShowDrug.resources
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.MedicalBox.resources
+C:\Users\Minh\Downloads\Minh\Lập trình nâng cao\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.fSchedule.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\FireSharp.dll
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\RestSharp.dll
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\bin\Debug\RestSharp.xml
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.MedicalBox.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.fSchedule.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Main.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.ShowDrug.resources
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CopyComplete
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+D:\OneDrive - vnu.edu.vn\C#\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\FireSharp.dll
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\RestSharp.dll
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\bin\Debug\RestSharp.xml
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.MedicalBox.resources
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.fSchedule.resources
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Main.resources
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy_Management.ShowDrug.resources
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CopyComplete
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\Nguyen Dat\Source\Repos\mcnxo2001\Pharmacy-Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\FireSharp.dll
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\RestSharp.dll
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\bin\Debug\RestSharp.xml
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.MedicalBox.resources
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.fSchedule.resources
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Main.resources
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.ShowDrug.resources
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CopyComplete
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\Minh\Desktop\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\FireSharp.dll
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\RestSharp.dll
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\bin\Debug\RestSharp.xml
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy_Management.MedicalBox.resources
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy_Management.fSchedule.resources
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy_Management.Main.resources
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy_Management.ShowDrug.resources
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CopyComplete
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\Minh\Downloads\Pharmacy-Management-main\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
