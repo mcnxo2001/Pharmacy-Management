@@ -69,12 +69,12 @@ namespace Pharmacy_Management
             {
                 var Add = new Data
                 {
-                    Id = (IdNb + 1).ToString(),
+                    Id = IdNb.ToString(),
                     Name = txtName.Text,
                     Amount = txtAmount.Text,
                     DateAndTime = txtDateAndTime.Text
                 };
-                SetResponse response1 = await Client.SetTaskAsync("Schedule/Item" + (IdNb + 1).ToString(), Add);
+                SetResponse response1 = await Client.SetTaskAsync("Schedule/Item" + IdNb.ToString(), Add);
                 MessageBox.Show("Đã thêm lời nhắc uống thuốc !!!");
             }    
         }
@@ -114,19 +114,8 @@ namespace Pharmacy_Management
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            ID = 0;
-            dtgvSchedule.Rows.Clear();
-            FirebaseResponse response = Client.Get("Schedule/");
-            Dictionary<string, Data> result = response.ResultAs<Dictionary<string, Data>>();
-            foreach (var get in result)
-            {
-                ID = ID + 1;
-                dtgvSchedule.Rows.Add(ID, get.Value.Name, get.Value.Amount, get.Value.DateAndTime,get.Value.Id,get.Value.Daily);
-                if (Int32.Parse(get.Value.Id) > IdNb)
-                {
-                    IdNb = Int32.Parse(get.Value.Id);
-                }
-            }
+            WriteData();
+            IdNb = FindNextID();
         }
         private bool Checking()
         {
@@ -194,6 +183,37 @@ namespace Pharmacy_Management
             catch
             {
 
+            }
+        }
+        private int FindNextID()
+        {
+            int i = 1;
+            FirebaseResponse response = Client.Get("Schedule/");
+            Dictionary<string, Data> result = response.ResultAs<Dictionary<string, Data>>();
+            foreach (var get1 in result)
+            {
+                if (i != Int32.Parse(get1.Value.Id))
+                {
+                    break;
+                }
+                else
+                {
+                    i = i + 1;
+                }
+            }
+            return i;
+        }
+
+        private void WriteData()
+        {
+            ID = 0;
+            dtgvSchedule.Rows.Clear();
+            FirebaseResponse response = Client.Get("Schedule/");
+            Dictionary<string, Data> result = response.ResultAs<Dictionary<string, Data>>();
+            foreach (var get in result)
+            {
+                ID = ID + 1;
+                dtgvSchedule.Rows.Add(ID, get.Value.Name, get.Value.Amount, get.Value.DateAndTime, get.Value.Id, get.Value.Daily);
             }
         }
     }

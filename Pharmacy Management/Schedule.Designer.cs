@@ -37,6 +37,12 @@ namespace Pharmacy_Management
             this.btRemove = new System.Windows.Forms.Button();
             this.btAdd = new System.Windows.Forms.Button();
             this.dtgvSchedule = new System.Windows.Forms.DataGridView();
+            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.name = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.amount = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dateandtime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.hideid = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.daily = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.panel1 = new System.Windows.Forms.Panel();
             this.txtDateAndTime = new System.Windows.Forms.TextBox();
             this.txtAmount = new System.Windows.Forms.TextBox();
@@ -45,12 +51,6 @@ namespace Pharmacy_Management
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.name = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.amount = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dateandtime = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.hideid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.daily = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvSchedule)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -156,6 +156,55 @@ namespace Pharmacy_Management
             this.dtgvSchedule.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvSchedule_CellClick);
             this.dtgvSchedule.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvSchedule_CellContentClick);
             // 
+            // STT
+            // 
+            this.STT.HeaderText = "STT";
+            this.STT.MinimumWidth = 6;
+            this.STT.Name = "STT";
+            this.STT.ReadOnly = true;
+            this.STT.Width = 50;
+            // 
+            // name
+            // 
+            this.name.HeaderText = "Name";
+            this.name.MinimumWidth = 6;
+            this.name.Name = "name";
+            this.name.ReadOnly = true;
+            this.name.Width = 155;
+            // 
+            // amount
+            // 
+            this.amount.HeaderText = "Amount";
+            this.amount.MinimumWidth = 6;
+            this.amount.Name = "amount";
+            this.amount.ReadOnly = true;
+            this.amount.Width = 85;
+            // 
+            // dateandtime
+            // 
+            this.dateandtime.HeaderText = "DateAndTime";
+            this.dateandtime.MinimumWidth = 6;
+            this.dateandtime.Name = "dateandtime";
+            this.dateandtime.ReadOnly = true;
+            this.dateandtime.Width = 172;
+            // 
+            // hideid
+            // 
+            this.hideid.HeaderText = "HideID";
+            this.hideid.MinimumWidth = 6;
+            this.hideid.Name = "hideid";
+            this.hideid.ReadOnly = true;
+            this.hideid.Visible = false;
+            this.hideid.Width = 125;
+            // 
+            // daily
+            // 
+            this.daily.HeaderText = "Mỗi ngày";
+            this.daily.MinimumWidth = 6;
+            this.daily.Name = "daily";
+            this.daily.ReadOnly = true;
+            this.daily.Width = 50;
+            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
@@ -243,55 +292,6 @@ namespace Pharmacy_Management
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // STT
-            // 
-            this.STT.HeaderText = "STT";
-            this.STT.MinimumWidth = 6;
-            this.STT.Name = "STT";
-            this.STT.ReadOnly = true;
-            this.STT.Width = 50;
-            // 
-            // name
-            // 
-            this.name.HeaderText = "Name";
-            this.name.MinimumWidth = 6;
-            this.name.Name = "name";
-            this.name.ReadOnly = true;
-            this.name.Width = 155;
-            // 
-            // amount
-            // 
-            this.amount.HeaderText = "Amount";
-            this.amount.MinimumWidth = 6;
-            this.amount.Name = "amount";
-            this.amount.ReadOnly = true;
-            this.amount.Width = 85;
-            // 
-            // dateandtime
-            // 
-            this.dateandtime.HeaderText = "DateAndTime";
-            this.dateandtime.MinimumWidth = 6;
-            this.dateandtime.Name = "dateandtime";
-            this.dateandtime.ReadOnly = true;
-            this.dateandtime.Width = 172;
-            // 
-            // hideid
-            // 
-            this.hideid.HeaderText = "HideID";
-            this.hideid.MinimumWidth = 6;
-            this.hideid.Name = "hideid";
-            this.hideid.ReadOnly = true;
-            this.hideid.Visible = false;
-            this.hideid.Width = 125;
-            // 
-            // daily
-            // 
-            this.daily.HeaderText = "Mỗi ngày";
-            this.daily.MinimumWidth = 6;
-            this.daily.Name = "daily";
-            this.daily.ReadOnly = true;
-            this.daily.Width = 50;
             // 
             // fSchedule
             // 
